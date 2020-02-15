@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notebook</string>
+
+    <string name="new_note_btn_lbl">Make New Note</string>
+    <string name="old_note_btn_lbl">Use Old Note</string>
+    <string name="save_note_btn_lbl">Save Note</string>
+</resources>
